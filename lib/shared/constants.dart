@@ -1,0 +1,1 @@
+const maxColorRange = 255;
